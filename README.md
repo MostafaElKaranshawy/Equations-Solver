@@ -16,7 +16,7 @@
   • Gauss Seidal
   
   • Jacobi Iteration
- ______________________________  
+ _______________________________  
 ## Non-Linear Equation Solver in Python: 
 
   • Bisection
