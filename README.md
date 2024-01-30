@@ -29,6 +29,6 @@
   
   • Modified Newton Raphson
   
-  • Secant
+  • Secant.
   
     
